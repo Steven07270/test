@@ -14,11 +14,11 @@ maintainers = ["LaFabritech"]
 [upstream]
 # NB: Only the "license" key is mandatory. Remove entries for which there's no relevant data
 license = "free" # you can see the available licenses identifiers list here: https://spdx.org/licenses/
-website = "https://example.com"
-demo = "https://demo.example.com"
-admindoc = "https://yunohost.org/packaging_apps"
-userdoc = "https://yunohost.org/apps"
-code = "https://some.forge.com/example/example"
+website = "https://solvespace.com/index.pl"
+# demo = "https://demo.example.com"
+# admindoc = "https://yunohost.org/packaging_apps"
+userdoc = "https://solvespace.com/tutorial.pl"
+# code = "https://some.forge.com/example/example"
 # FIXME: optional but recommended if relevant, this is meant to contain the Common Platform Enumeration, which is
 # sort of a standard id for applications defined by the NIST. In particular, YunoHost may use this is in the future
 # to easily track CVE (=security reports) related to apps. The CPE may be obtained by searching here:
